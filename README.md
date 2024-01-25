@@ -5,3 +5,4 @@ agumentated plant village :https://www.kaggle.com/datasets/zaidmazen879/plantv
 imagenet weights for Efnetb3 :https://www.kaggle.com/datasets/zaidmazen879/efnetb3
 plant villgae without agu :https://www.kaggle.com/datasets/zaidmazen879/plant-village
 rice leafe :https://www.kaggle.com/datasets/shayanriyaz/riceleafs
+project on kaggle : https://www.kaggle.com/code/zaidmazen879/final-project
